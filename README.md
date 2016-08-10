@@ -14,7 +14,7 @@ for Miles = 3959
 for KM = 6371
 ```
 
- ### Database structure
+### Database structure
  ```
 CREATE TABLE `markers` (
   `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
@@ -26,7 +26,7 @@ CREATE TABLE `markers` (
  ```
  
  
- ### MySQL Query for calculating distance
+### MySQL Query for calculating distance
  ```
  SELECT
 	id,
