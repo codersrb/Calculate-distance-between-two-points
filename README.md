@@ -15,7 +15,6 @@ for KM = 6371
 ```
  ### Database structure
  ```
- This should be the database structure to store latitude and longitude in MySQL database
 CREATE TABLE `markers` (
   `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
   `name` VARCHAR( 60 ) NOT NULL ,
