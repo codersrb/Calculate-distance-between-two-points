@@ -42,7 +42,7 @@ CREATE TABLE `markers` (
 	LIMIT 0 , 20;
  ```
  
- ### PHP Snippet
+### PHP Snippet
  ```
  <?php
 
