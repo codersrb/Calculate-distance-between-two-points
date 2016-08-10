@@ -13,6 +13,7 @@ In Below Query 3959 is form calculating distance in miles and 6371 is for kilome
 for Miles = 3959
 for KM = 6371
 ```
+
  ### Database structure
  ```
 CREATE TABLE `markers` (
